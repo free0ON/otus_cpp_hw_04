@@ -1,4 +1,5 @@
 /**
+ * OTUS CPP HW04 SFINAE
  * Template print_ip
  */
 #include "TAbstractIP.h"
